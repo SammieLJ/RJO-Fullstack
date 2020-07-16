@@ -1,0 +1,26 @@
+Creating a User Login System with PHP and MySQL - Tutorial Republic
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
+
+Get the full URL in PHP - Stack Overflow
+https://stackoverflow.com/questions/6768793/get-the-full-url-in-php
+
+How to create Pagination with PHP and MySql - My Programming Tutorials
+https://www.myprogrammingtutorials.com/create-pagination-with-php-and-mysql.html
+
+PHP: password_verify - Manual
+https://www.php.net/manual/en/function.password-verify.php
+
+Star Rating using Custom HTML Elements - YouTube
+https://www.youtube.com/watch?v=r7Yv4O4wAwI&feature=youtu.be
+
+MySQL COUNT - Counting Rows in a Table
+https://www.mysqltutorial.org/mysql-count/
+
+PHP filter_input_array() Function
+https://www.w3schools.com/php/func_filter_input_array.asp
+
+jQuery.get() | jQuery API Documentation
+https://api.jquery.com/jquery.get/
+
+How can I get the ID of an element using jQuery? - Stack Overflow
+https://stackoverflow.com/questions/3239598/how-can-i-get-the-id-of-an-element-using-jquery
